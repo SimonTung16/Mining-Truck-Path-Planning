@@ -1,4 +1,4 @@
-# 东方测控·大连理工大学数学挑战赛 - 矿车路径规划系统
+矿车路径规划系统 By Yusong Dong Keyan Li
 
 ## 一、 运行环境与依赖 (Environment & Dependencies)
 
