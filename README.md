@@ -1,5 +1,4 @@
-矿车路径规划系统 By Yusong Dong Keyan Li
-
+矿车路径规划系统 By Yusong Dong Keyan Li Juan Fan
 ## 一、 运行环境与依赖 (Environment & Dependencies)
 
 ### 1.1 基础运行环境
